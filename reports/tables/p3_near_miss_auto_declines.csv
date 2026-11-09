@@ -1,0 +1,4 @@
+distance_to_auto_decline_threshold,auto_declined_openings,share_reopened,eventual_deal_rate
+10-25% below,1655731,0.6579510802177407,0.20325161514762966
+more than 25% below,2554988,0.5565047663628948,0.035676097108870965
+within 10% of threshold,889191,0.6950205298974012,0.36536807052702963

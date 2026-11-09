@@ -1,0 +1,7 @@
+segment,baseline_deal_rate,minimum_detectable_lift_pp,negotiations_per_arm_buyer_level,negotiations_per_arm_listing_level_icc0.0,negotiations_per_arm_listing_level_icc0.1,size_weighted_buyers_per_listing
+All categories,0.42676080671907457,0.5,153834,153834,175090,2.38
+All categories,0.42676080671907457,1.0,38512,38512,43834,2.38
+All categories,0.42676080671907457,2.0,9653,9653,10987,2.38
+"Clothing, Shoes & Acc.",0.46354421528485495,0.5,156252,156252,177843,2.38
+"Clothing, Shoes & Acc.",0.46354421528485495,1.0,39088,39088,44489,2.38
+"Clothing, Shoes & Acc.",0.46354421528485495,2.0,9783,9783,11135,2.38
