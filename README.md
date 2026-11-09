@@ -66,4 +66,4 @@ https://doi.org/10.1093/qje/qjaa003
 All analysis, code and interpretation here are my own and are not endorsed by the authors or by eBay. Results describe
 eBay in 2012–13 and are associations, not causal estimates.
 
-Author: Haocheng Chen · [github.com/nathanchc](https://github.com/nathanchc)
+Author: Nathan Chen · [github.com/nathanchc](https://github.com/nathanchc)

@@ -1,0 +1,11 @@
+.venv/
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+.DS_Store
+reports/tables_smoke/
+figures_smoke/
+.pytest_cache/
+CLAUDE.local.md
+.claude/

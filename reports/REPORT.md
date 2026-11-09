@@ -1,7 +1,7 @@
 # Where marketplace negotiations are won and lost
 
 **Evidence from 28 million eBay Best Offer negotiations, and the experiments it points to**
-Haocheng Chen · Data: eBay Best Offer, June 2012 to June 2013 (Backus, Blake, Larsen & Tadelis, *QJE* 2020)
+Nathan Chen · Data: eBay Best Offer, June 2012 to June 2013 (Backus, Blake, Larsen & Tadelis, *QJE* 2020)
 
 ---
 
